@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Encapsulamento.Principal",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "MetodosContrutoresSobrecarga.Principal",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        },
+        {
+            "type": "java",
+            "name": "CompoundInterestGoalCalculator",
+            "request": "launch",
+            "mainClass": "CompoundInterestGoalCalculator",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        },
+        {
+            "type": "java",
+            "name": "CortisolCalculator",
+            "request": "launch",
+            "mainClass": "CortisolCalculator",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        },
+        {
+            "type": "java",
+            "name": "OlaMergulhador",
+            "request": "launch",
+            "mainClass": "OlaMergulhador",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetos.Principal",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        },
+        {
+            "type": "java",
+            "name": "TimeCompoundInterestCalculator",
+            "request": "launch",
+            "mainClass": "TimeCompoundInterestCalculator",
+            "projectName": "Aula1fundamentos_3b8d6ad0"
+        }
+    ]
+}
