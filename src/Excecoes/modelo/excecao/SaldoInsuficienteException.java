@@ -1,4 +1,4 @@
-package com.algaworks.banco.modelo.excecao;
+package Excecoes.modelo.excecao;
 
 public class SaldoInsuficienteException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package com.algaworks.banco.modelo;
+package Interfaces.modelo;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package com.algaworks.banco.modelo;
+package ClassesAbstratas.modelo;
 
 public class ContaEspecial extends Conta {
 

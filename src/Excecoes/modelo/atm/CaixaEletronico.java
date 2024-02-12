@@ -1,8 +1,8 @@
-package com.algaworks.banco.modelo.atm;
+package Excecoes.modelo.atm;
 
-import com.algaworks.banco.modelo.Conta;
-import com.algaworks.banco.modelo.pagamento.DocumentoEstornavel;
-import com.algaworks.banco.modelo.pagamento.DocumentoPagavel;
+import Excecoes.modelo.Conta;
+import Excecoes.modelo.pagamento.DocumentoEstornavel;
+import Excecoes.modelo.pagamento.DocumentoPagavel;
 
 public class CaixaEletronico {
 

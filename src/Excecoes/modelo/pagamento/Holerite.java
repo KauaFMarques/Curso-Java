@@ -1,6 +1,6 @@
-package com.algaworks.banco.modelo.pagamento;
+package Excecoes.modelo.pagamento;
 
-import com.algaworks.banco.modelo.Pessoa;
+import Excecoes.modelo.Pessoa;
 
 public class Holerite implements DocumentoPagavel {
 

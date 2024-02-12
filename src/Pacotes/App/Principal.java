@@ -1,4 +1,5 @@
 package Pacotes.App;
+import Pacotes.Modelo.Pessoa;
 
 public class Principal {
     public static void main(String[] args){

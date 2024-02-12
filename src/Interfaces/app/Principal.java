@@ -1,10 +1,10 @@
-package com.algaworks.banco.app;
+package Interfaces.app;
 
-import com.algaworks.banco.modelo.*;
-import com.algaworks.banco.modelo.atm.CaixaEletronico;
-import com.algaworks.banco.modelo.pagamento.Boleto;
-import com.algaworks.banco.modelo.pagamento.DocumentoPagavel;
-import com.algaworks.banco.modelo.pagamento.Holerite;
+import Interfaces.modelo.*;
+import Interfaces.modelo.atm.CaixaEletronico;
+import Interfaces.modelo.pagamento.Boleto;
+import Interfaces.modelo.pagamento.DocumentoPagavel;
+import Interfaces.modelo.pagamento.Holerite;
 
 public class Principal {
 

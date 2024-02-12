@@ -1,6 +1,5 @@
-package com.algaworks.banco.app;
-
-import com.algaworks.banco.modelo.*;
+package UpcastingPolimorfismo.app;
+import UpcastingPolimorfismo.modelo.*;
 
 public class Principal {
 

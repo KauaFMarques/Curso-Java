@@ -1,6 +1,6 @@
-package com.algaworks.banco.modelo.pagamento;
+package Interfaces.modelo.pagamento;
 
-import com.algaworks.banco.modelo.Pessoa;
+import Interfaces.modelo.Pessoa;
 
 public class Boleto implements DocumentoPagavel, DocumentoEstornavel {
 

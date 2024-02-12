@@ -1,6 +1,6 @@
-package com.algaworks.banco.modelo;
+package Excecoes.modelo;
 
-import com.algaworks.banco.modelo.excecao.SaldoInsuficienteException;
+import Excecoes.modelo.excecao.SaldoInsuficienteException;
 
 import java.util.Objects;
 

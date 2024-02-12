@@ -1,4 +1,4 @@
-package com.algaworks.banco.modelo.pagamento;
+package Interfaces.modelo.pagamento;
 
 public interface DocumentoPagavel {
 
